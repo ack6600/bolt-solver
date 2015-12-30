@@ -1,7 +1,6 @@
 import java.awt.Dimension;
 import java.util.ArrayList;
 
-@SuppressWarnings("unused")
 public class Bolt {
 	int[] sides;
 	int sOne;
